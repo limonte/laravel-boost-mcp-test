@@ -21,9 +21,9 @@ And this is the resulting error when trying to use Copilot Coding Agent:
 MCP server failed to start: MCP error -32000: Connection closed - for the full output, see the verbose logs
 ```
 
-<img width="1376" height="646" alt="Image" src="https://github.com/user-attachments/assets/461ec89b-e2cf-4b00-93bb-56ed5ba9309f" />
+<img width="1394" height="550" alt="Image" src="https://github.com/user-attachments/assets/f8212cb9-5603-4ec7-b19a-0b70d96e82c3" />
 
-Link: TODO
+Link: https://github.com/copilot/tasks/pull/PR_kwDOQhMVm862ogVe?session_id=8a610739-3e2f-4293-8830-c2c04121e4a4
 
 ---
 
