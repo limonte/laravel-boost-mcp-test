@@ -25,6 +25,12 @@ MCP server failed to start: MCP error -32000: Connection closed - for the full o
 
 Link: https://github.com/copilot/tasks/pull/PR_kwDOQhMVm862ogVe?session_id=8a610739-3e2f-4293-8830-c2c04121e4a4
 
+Here's the verbose logs from that repo: https://github.com/limonte/laravel-boost-mcp-test/actions/runs/19864429212/job/56923019704
+
+And here's the actual error that's happening there:
+
+> [mcp server laravel-boost stderr] Could not open input file: ./artisan
+
 ---
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
